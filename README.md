@@ -1,0 +1,2 @@
+# EMAIL_VALIDATION
+This is a github repository for EMAIL VALIDATION USING HTML, CSS , JS AND API
